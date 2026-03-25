@@ -21,7 +21,7 @@ I'm a final-year Computer Science student at NUST, passionate about AI, machine 
 * **[CropStats](https://github.com/theBlackfish01/CropStats) & [SatStats](https://github.com/theBlackfish01/SatStats):** Deep learning and ML approaches to crop yield prediction and regional GDP analysis via land classification data.
 
 ### 🔒 Private Projects
-* **OFR-DeepSense:** The codebase supporting my co-authored research paper on detecting and classifying fiber perturbations. It implements a two-stage deep learning framework using Temporal Convolutional Networks (TCN). The model analyzes standard OPM metrics from coherent transceivers to identify temperature and pressure anomalies, achieving a 98% overall accuracy.
+* **OFR-DeepSense:** The codebase supporting my co-authored research paper on detecting and classifying fiber perturbations. Two-stage TCN deep learning framework with 98% accuracy.
 * **Aegis:** An AI portfolio advisory application utilizing Temporal Fusion Transformers (TFT) for financial forecasting.
 * **Adroit_VMS:** A high-performance desktop application for validating complex multi-table CSV files, built with a Tauri (Rust) backend and a React frontend.
 
