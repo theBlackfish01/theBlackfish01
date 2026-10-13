@@ -1,9 +1,9 @@
 # Hi there, I'm Wadood 👋
 
-I'm a final-year Computer Science student at NUST, passionate about AI, machine learning, systems programming, and quantitative finance. I specialize in building agentic AI frameworks and predictive models.
+I'm a Computer Science graduate from NUST, passionate about AI, machine learning, and optical networks. I specialize in building agentic AI frameworks and predictive models.
 
 ### 🚀 Startup
-* **[Fortis Capital](https://fortis-capital.org/)**: Co-founder. Exploring the intersection of algorithmic trading and advanced AI models.
+* **[Fortis Capital](https://fortis-capital.org/)**: Exploring the intersection of algorithmic trading and advanced AI models.
 
 ### 🛠️ Tech Stack & Tools
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
