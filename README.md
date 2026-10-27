@@ -19,7 +19,7 @@ AI/ML Engineer at **Wubble**, working on agentic systems for audio and music. I 
 
 ### 💻 Open Source & Public Projects
 
-* **[Pocket Producer](https://github.com/theBlackfish01/PocketProducer):** A conversational music producer that creates editable Audiotool arrangements from natural-language direction, with precise revisions and saved versions. **Ideation category winner at [Audiotool's Let's Build 2026](https://www.audiotool.com/LetsBuild/). [Website](https://pocketapi-production.up.railway.app/)**
+* **[Pocket Producer](https://github.com/theBlackfish01/PocketProducer):** A conversational music producer that creates editable Audiotool arrangements from natural-language direction, with precise revisions and saved versions. **Ideation category winner at [Audiotool's Let's Build 2026](https://www.audiotool.com/LetsBuild/).** [Website](https://pocketapi-production.up.railway.app/).
 * **[Apertus Lightpath](https://github.com/theBlackfish01/ApertusNetworkGym):** Plain-language routing policies for optical networks, built for Hack Apertus 2026. Combines a fine-tuned Apertus model with a rule engine, clarification and a guarded fallback. [Demo](https://youtu.be/8zNhOLt4x6s) · [Report](https://github.com/theBlackfish01/ApertusNetworkGym/blob/main/track_2b/technical_report.md).
 * **[FiberWatchCLI](https://github.com/theBlackfish01/FiberWatchCLI):** A CLI interface for optical fiber fault detection, diagnosis, and localization using OTDR and Phi-OTDR datasets. This ties directly into my ongoing research co-authoring papers on ML in optical networks.
 * **[LifeScout](https://github.com/theBlackfish01/LifeScout):** An AI-powered personal executive assistant built on LangGraph, FastAPI, and Next.js, featuring a two-level supervisor architecture.
